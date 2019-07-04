@@ -1,0 +1,11 @@
+ Volume in drive E is SANJAY PROJECTS
+ Volume Serial Number is AC7F-6186
+
+ Directory of E:\Git Projects 2019\DATA SCIENCE
+
+05-07-2019  03:18    <DIR>          .
+05-07-2019  03:18    <DIR>          ..
+05-07-2019  03:15    <DIR>          .git
+05-07-2019  03:18                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)   6,416,879,616 bytes free
